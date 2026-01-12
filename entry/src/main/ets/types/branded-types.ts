@@ -1,7 +1,7 @@
 // Branded type base
-declare const __brand: unique symbol;
+declare const BRAND_TYPE: unique symbol;
 
-export type Brand<T, B> = T & { [__brand]: B };
+export type Brand<T, B> = T & { [BRAND_TYPE]: B };
 
 // Domain identifiers
 export type UserId = Brand<number, 'UserId'>;

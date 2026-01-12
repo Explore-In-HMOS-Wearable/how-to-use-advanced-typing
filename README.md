@@ -1,6 +1,6 @@
 > **Note:** To access all shared projects, get information about environment setup, and view other guides, please visit [Explore-In-HMOS-Wearable Index](https://github.com/Explore-In-HMOS-Wearable/hmos-index).
 
-# Advanced Typing
+# How to Use Advanced Typing Patterns in ArkTS Effectively
 
 Advanced Typing Showcase is a reference project designed to demonstrate powerful and expressive type-level programming
 techniques in ArkTS.
@@ -50,7 +50,7 @@ entry/src/main/ets/
 │       utility-types.ts
 ├───pages
 │       Index.ets
-└─── 
+└───
 ```
 
 # Constraints and Restrictions
